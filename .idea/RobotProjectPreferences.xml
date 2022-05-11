@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RobotProjectPreferences">
+    <option name="robotLanguageServerPython" value="/Users/nikola.gensorova/TAA_2_Alza/venv/Scripts/python.exe" />
+    <option name="robotPythonExecutable" value="/Users/nikola.gensorova/TAA_2_Alza/venv/Scripts/python.exe" />
+    <option name="robotLintUndefinedLibraries" value="c:\Users\nikola.gensorova\TAA_2_Alza" />
+  </component>
+</project>
